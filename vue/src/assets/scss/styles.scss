@@ -1,0 +1,13 @@
+@import "../../../node_modules/bootstrap/scss/bootstrap";
+
+
+body{
+    background: rgb(253,44,121);
+    background: linear-gradient(to top right, rgba(253,44,121,1) 0%, rgba(109,64,120,1) 100%);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+#app{
+    height: 100%;
+}
